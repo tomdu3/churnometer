@@ -1,3 +1,5 @@
+# A Walkthrough Project for the Predictive Analytics course of the Code Institute
+
 ## How to use this repo
 
 1. Fork this repo and copy the https URL of your forked churnometer repo
